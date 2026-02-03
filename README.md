@@ -6,3 +6,6 @@ However, on flashing the boot image and pushing the rootfs to /data as ubuntu.im
 
 ## Will it be fixed?
 Most likely, no. This was just a side project to see if I could get Ubuntu running on my tablet, but time and other affairs stop me from progressing any further than this. You can use this repository as a base for your own port of this device.
+
+##Possible fix
+[uniLoader](https://github.com/ivoszbg/uniLoader) is a simple bootloader with support for this device, capable of booting Linux. Maybe the bootloader on the latest firmware is acting out and not booting. Check issues for more details.
